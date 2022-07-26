@@ -1,7 +1,6 @@
 import React from "react";
 import { Routes, Route } from "react-router-dom";
 import HomePage from "./pages/homepage/homepage.component";
-import logo from "./logo.svg";
 import Header from "./components/header/header.component";
 import "./App.css";
 
@@ -16,10 +15,11 @@ class App extends React.Component {
   render() {
     return (
       <div>
-        <Header />
+        <HomePage />
+        {/* <Header />
         <Routes>
           <Route path="/" element={<HomePage />} />
-        </Routes>
+        </Routes> */}
       </div>
     );
   }
