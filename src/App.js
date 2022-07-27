@@ -15,11 +15,11 @@ class App extends React.Component {
   render() {
     return (
       <div>
-        <HomePage />
-        {/* <Header />
+        {/* <HomePage /> */}
+        <Header />
         <Routes>
           <Route path="/" element={<HomePage />} />
-        </Routes> */}
+        </Routes>
       </div>
     );
   }

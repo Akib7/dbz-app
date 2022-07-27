@@ -13,7 +13,7 @@ class Directory extends React.Component {
         {
           title: "Goku",
           imageUrl:
-            "https://theouterhaven.b-cdn.net/wp-content/uploads/2022/03/goku-dragon-ball-guru-824x490-1-750x400.jpg",
+            "https://media.interaksyon.com/wp-content/uploads/2020/01/Son-Goku.jpg",
           id: 1,
           linkUrl: "goku",
         },
@@ -26,7 +26,7 @@ class Directory extends React.Component {
         {
           title: "Gohan",
           imageUrl:
-            "https://dragonball.guru/wp-content/uploads/2021/03/toppng.com-mystic-gohan-dragon-ball-z-gohan-1021x2859-1-e1617011806816-400x400.png",
+            "https://conteudo.imguol.com.br/c/entretenimento/9c/2017/07/14/gohan-1500057808905_v2_900x506.jpg.webp",
           id: 3,
           linkUrl: "gohan",
         },
@@ -35,6 +35,13 @@ class Directory extends React.Component {
           imageUrl: "https://images2.alphacoders.com/772/thumb-1920-772447.jpg",
           id: 4,
           linkUrl: "trunks",
+        },
+        {
+          title: "Piccolo",
+          imageUrl:
+            "https://hotstuff4geeks.com/wp-content/uploads/2021/08/Dragon-Ball-Super-Super-Hero-Piccolos-Look-Has-Changed.-See-the-Differences.jpg",
+          id: 5,
+          linkUrl: "piccolo",
         },
       ],
     };

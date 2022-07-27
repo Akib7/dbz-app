@@ -2,13 +2,12 @@ import React from "react";
 import "./header.styles.scss";
 
 import { Link } from "react-router-dom";
-import { ReactComponent as Logo } from "../../assets/appLogo.svg";
-// import { ReactComponent as Logo } from "../..assets/dragonball-z.svg";
+import MyImage from "../../assets/dbzk_logo.jpg";
 
-const Header = () => {
+const Header = () => (
   <div className="header">
     <Link className="logo-container" to={"/"}>
-      <Logo className="logo" />
+      <img src={MyImage} alt="logo" />
     </Link>
 
     <div className="options">
@@ -22,7 +21,7 @@ const Header = () => {
         SIGN IN
       </Link>
     </div>
-  </div>;
-};
+  </div>
+);
 
 export default Header;
