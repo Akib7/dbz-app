@@ -2,10 +2,12 @@ import React from "react";
 
 import "./display-character.styles.scss";
 
+//display Chaacter
+
 const DisplayCharacter = ({ title, imageUrl, description }) => (
   <div className="displayCharacter-container">
     <div className="displayCharacter-image">
-      <img src={imageUrl} alt="displayCharacter" />
+      <img src={imageUrl} alt="dgit isplayCharacter" />
     </div>
 
     <div className="content">
