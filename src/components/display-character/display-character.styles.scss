@@ -1,0 +1,14 @@
+.displayCharacter-container {
+  min-width: 70%;
+  height: auto;
+  display: flex;
+  flex-direction: row;
+  padding: 110px 15px;
+  background-image: linear-gradient(
+    to bottom right,
+    #fd5e09,
+    #fc7410,
+    #fb7a14,
+    #fabf2f
+  );
+}

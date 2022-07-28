@@ -7,7 +7,7 @@ import "./display-character.styles.scss";
 const DisplayCharacter = ({ title, imageUrl, description }) => (
   <div className="displayCharacter-container">
     <div className="displayCharacter-image">
-      <img src={imageUrl} alt="dgit isplayCharacter" />
+      <img src={imageUrl} alt="displayCharacter" />
     </div>
 
     <div className="content">
