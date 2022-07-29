@@ -43,6 +43,27 @@ class Directory extends React.Component {
           id: 5,
           linkUrl: "piccolo",
         },
+        {
+          title: "Yamcha",
+          imageUrl:
+            "https://static2.srcdn.com/wordpress/wp-content/uploads/2020/09/Yamcha-Scars-in-Dragon-Ball.jpg",
+          id: 6,
+          linkUrl: "yamcha",
+        },
+        {
+          title: "Krillin",
+          imageUrl:
+            "https://cdn-0.practicaltyping.com/wp-content/uploads/2022/01/krillin.jpg",
+          id: 7,
+          linkUrl: "krillin",
+        },
+        {
+          title: "Chiaotzu",
+          imageUrl:
+            "https://i.pinimg.com/564x/9f/c6/fe/9fc6fe8e1a481980d9b7e57621b7626a.jpg",
+          id: 5,
+          linkUrl: "chiaotzu",
+        },
       ],
     };
   }
