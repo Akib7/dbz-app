@@ -25,13 +25,15 @@
       background-size: cover;
       //   margin-right: 35px;
       border: 1px solid black;
+      // outline: none;
       border-spacing: 50px 20px;
+      background-color: #571700;
     }
 
     .content {
       height: 90px;
-      padding: 135px 0px;
-      border: 1px solid black;
+      padding: 274px 60px;
+
       align-items: flex-start;
       justify-content: center;
       position: relative;
@@ -39,16 +41,15 @@
       flex-direction: column;
       color: #ef3f01;
       background-color: #090200;
-      //   margin: 70px;
-
+      font-size: 30px; //   margin: 70px;
       .title {
         margin: 0px 30px 0px 30px;
       }
       .description {
-        margin: 30px 30px 0px 30px;
+        margin: 15px 30px 0px 30px;
         justify-content: center;
         align-items: flex-start;
-        font-size: medium;
+        font-size: 20px;
         min-width: 350px;
       }
     }
