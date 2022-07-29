@@ -9,6 +9,7 @@ import Trunks from "./pages/trunks/trunks.component";
 import Gohan from "./pages/gohan/gohan.component";
 import Piccolo from "./pages/piccolo/piccolo.component";
 import Yamcha from "./pages/yamcha/yamcha.component";
+import Krillin from "./pages/krillin/krillin.component";
 
 class App extends React.Component {
   constructor() {
@@ -32,6 +33,7 @@ class App extends React.Component {
           <Route path="gohan" element={<Gohan />} />
           <Route path="piccolo" element={<Piccolo />} />
           <Route path="yamcha" element={<Yamcha />} />
+          <Route path="krillin" element={<Krillin />} />
         </Routes>
       </div>
     );
