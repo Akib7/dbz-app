@@ -10,6 +10,7 @@ import Gohan from "./pages/gohan/gohan.component";
 import Piccolo from "./pages/piccolo/piccolo.component";
 import Yamcha from "./pages/yamcha/yamcha.component";
 import Krillin from "./pages/krillin/krillin.component";
+import Chiaotzu from "./pages/chiaotzu/chiaotzu.component";
 
 class App extends React.Component {
   constructor() {
@@ -34,6 +35,7 @@ class App extends React.Component {
           <Route path="piccolo" element={<Piccolo />} />
           <Route path="yamcha" element={<Yamcha />} />
           <Route path="krillin" element={<Krillin />} />
+          <Route path="chiaotzu" element={<Chiaotzu />} />
         </Routes>
       </div>
     );
