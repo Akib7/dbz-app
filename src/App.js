@@ -4,6 +4,10 @@ import HomePage from "./pages/homepage/homepage.component";
 import Header from "./components/header/header.component";
 import "./App.css";
 import Goku from "./pages/goku/goku.component";
+import Vegeta from "./pages/vegeta/vegeta.component";
+import Trunks from "./pages/trunks/trunks.component";
+import Gohan from "./pages/gohan/gohan.component";
+import Piccolo from "./pages/piccolo/piccolo.component";
 
 class App extends React.Component {
   constructor() {
@@ -21,6 +25,10 @@ class App extends React.Component {
         <Routes>
           <Route path="/" element={<HomePage />} />
           <Route path="goku" element={<Goku />} />
+          <Route path="vegeta" element={<Vegeta />} />
+          <Route path="trunks" element={<Trunks />} />
+          <Route path="gohan" element={<Gohan />} />
+          <Route path="piccolo" element={<Piccolo />} />
         </Routes>
       </div>
     );
