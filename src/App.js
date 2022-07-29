@@ -22,6 +22,7 @@ class App extends React.Component {
       <div>
         {/* <HomePage /> */}
         <Header />
+        {/* routes */}
         <Routes>
           <Route path="/" element={<HomePage />} />
           <Route path="goku" element={<Goku />} />
