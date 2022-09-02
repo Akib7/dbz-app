@@ -4,7 +4,8 @@ This is a simple project on Dragon Ball Z characters made with React.
 
 ![dbzWebsite](https://user-images.githubusercontent.com/75217894/181313009-715de3f7-1612-4df1-8fa3-10ecaff33f26.PNG)
 
-![goku Character](https://user-images.githubusercontent.com/75217894/188121246-c2d296b4-7b8c-41d1-906d-c109dff4c1f4.PNG)
+![goku Character](https://user-images.githubusercontent.com/75217894/188121399-cef0d017-2457-4943-a096-dbf7428bc74f.PNG)
+
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
