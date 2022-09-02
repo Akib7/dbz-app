@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 
+This is a simple project on Dragon Ball Z characters made with React.
 
+![dbzWebsite](https://user-images.githubusercontent.com/75217894/181313009-715de3f7-1612-4df1-8fa3-10ecaff33f26.PNG)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -70,5 +72,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
-![dbzWebsite](https://user-images.githubusercontent.com/75217894/181313009-715de3f7-1612-4df1-8fa3-10ecaff33f26.PNG)
